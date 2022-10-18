@@ -8,3 +8,13 @@ https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be
 https://qiita.com/minoru-nagasawa/items/e28e3a48d367774e217c
 	VbaImportExportAddIn
 	https://github.com/minoru-nagasawa/VbaImportExportAddIn
+
+■[VSCode] 拡張機能Git Historyの使い方
+https://atelier-light.com/blog/vscode-git-history/
+
+■git 除外ファイルの設定
+〇ユーザーのHOMEディレクトリに置くケース
+https://codeaid.jp/blog/gitignore/
+
+〇.gitと同階層に.gitignoreを置くケース
+https://qiita.com/sf213471118/items/efbc0abf028a3ead72e7
